@@ -526,7 +526,7 @@ body {
 }
 
 .footer p a {
-    color: #10cab7;
+    color: var(--main-color);
     text-decoration: none;
 }
 
