@@ -222,7 +222,7 @@ body {
 }
 
 .feature .container .feat:nth-child(2) {
-    box-shadow: 2px 5px 6px 0px rgb(222, 222, 222);
+     box-shadow: 0px 5px 15px rgb(0, 0, 0, 0.25);
 }
 
 .special-heading {
